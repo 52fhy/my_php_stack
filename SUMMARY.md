@@ -24,6 +24,7 @@
    * PHP框架
    * PHP库和扩展
    * PHP基础
+   * PHP开发环境
 * 数据库
    * MySQL
    * NoSQL
