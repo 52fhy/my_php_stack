@@ -27,6 +27,7 @@
    * PHP基础
 * 数据库
    * MySQL
+       * Redis
    * NoSQL
        * MemCache
 * Linux
