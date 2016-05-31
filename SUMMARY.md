@@ -12,7 +12,7 @@
            * [行为型](xing_wei_xing.md)
    * PHP原理
    * [SPL](spl.md)
-   * 数据结构
+   * [数据结构](shu_ju_jie_gou.md)
    * MVC
    * PHP框架
    * PHP库和扩展
