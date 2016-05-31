@@ -24,7 +24,7 @@
    * MVC
    * [PHP框架](phpkuang_jia.md)
    * [PHP库和扩展](phpku_he_kuo_zhan.md)
-   * 代码规范
+   * [代码规范](dai_ma_gui_fan.md)
 * 数据库
    * MySQL
        * Redis
