@@ -33,6 +33,7 @@
    * MongoDB
 * Linux
    * 系统安装
+   * 常见命令
 * H5
 * NodeJS
 * C
