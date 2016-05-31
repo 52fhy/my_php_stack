@@ -28,9 +28,9 @@
 * 数据库
    * MySQL
    * NoSQL
+       * MongoDB
        * Redis
        * MemCache
-* MongoDB
 * [Linux](linux.md)
    * [系统安装](xi_tong_an_zhuang.md)
    * [常见命令](chang_jian_ming_ling.md)
