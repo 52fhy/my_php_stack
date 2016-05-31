@@ -14,6 +14,7 @@
    * [SPL](spl.md)
    * [数据结构](shu_ju_jie_gou.md)
        * 数组
+       * 队列
    * MVC
    * PHP框架
    * PHP库和扩展
