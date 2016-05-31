@@ -28,4 +28,5 @@
 * Linux
 * H5
 * NodeJS
+* C
 
