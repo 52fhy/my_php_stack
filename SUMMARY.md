@@ -44,6 +44,7 @@
    * HTML5
    * CSS
    * JavaScript
+   * Ajax
 * NodeJS
 * C
 * Python
