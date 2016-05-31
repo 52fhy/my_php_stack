@@ -7,7 +7,7 @@
        * [基本特征](ji_ben_te_zheng.md)
        * [基本原则](ji_ben_yuan_ze.md)
        * [设计模式](she_ji_mo_shi.md)
-           * 创建型
+           * [创建型](chuang_jian_xing.md)
            * 结构型
            * 行为型
    * PHP原理
