@@ -33,7 +33,7 @@
    * MongoDB
 * [Linux](linux.md)
    * 系统安装
-   * 常见命令
+   * [常见命令](chang_jian_ming_ling.md)
 * H5
 * NodeJS
 * C
