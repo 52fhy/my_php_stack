@@ -9,7 +9,7 @@
        * [设计模式](she_ji_mo_shi.md)
            * [创建型](chuang_jian_xing.md)
            * [结构型](jie_gou_xing.md)
-           * 行为型
+           * [行为型](xing_wei_xing.md)
    * PHP原理
    * SPL
    * 数据结构
