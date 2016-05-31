@@ -45,6 +45,7 @@
    * CSS
    * JavaScript
    * Ajax
+   * jQuery/Zepto
 * NodeJS
 * C
 * Python
