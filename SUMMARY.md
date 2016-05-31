@@ -34,6 +34,7 @@
 * [Linux](linux.md)
    * [系统安装](xi_tong_an_zhuang.md)
    * [常见命令](chang_jian_ming_ling.md)
+   * vi编辑器使用和软件安装
 * H5
 * NodeJS
 * C
