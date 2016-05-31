@@ -39,6 +39,7 @@
    * 网络配置和文件服务器
    * 防火墙
    * LANMP
+   * Shell脚本
 * H5
 * NodeJS
 * C
