@@ -46,6 +46,7 @@
    * JavaScript
    * Ajax
    * jQuery/Zepto
+   * WebScoket
 * NodeJS
 * C
 * Python
