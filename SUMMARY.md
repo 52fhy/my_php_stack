@@ -7,6 +7,7 @@
        * [基本特征](ji_ben_te_zheng.md)
        * [基本原则](ji_ben_yuan_ze.md)
        * [设计模式](she_ji_mo_shi.md)
+           * 创建型
    * PHP原理
    * SPL
    * 数据结构
