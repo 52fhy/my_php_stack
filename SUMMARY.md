@@ -23,7 +23,7 @@
        * 树
    * MVC
    * [PHP框架](phpkuang_jia.md)
-   * PHP库和扩展
+   * [PHP库和扩展](phpku_he_kuo_zhan.md)
    * PHP基础
 * 数据库
    * MySQL
