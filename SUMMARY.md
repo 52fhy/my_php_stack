@@ -2,6 +2,7 @@
 
 * [简介](README.md)
 * [PHP](php.md)
+   * PHP开发环境
    * PHP基础
    * [深入理解面向对象](shen_ru_li_jie_mian_xiang_dui_xiang.md)
        * [核心思想](he_xin_si_xiang.md)
@@ -24,7 +25,6 @@
    * PHP框架
    * PHP库和扩展
    * PHP基础
-   * PHP开发环境
 * 数据库
    * MySQL
    * NoSQL
