@@ -8,7 +8,7 @@
        * [核心思想](he_xin_si_xiang.md)
        * [基本特征](ji_ben_te_zheng.md)
        * [基本原则](ji_ben_yuan_ze.md)
-       * [设计模式](she_ji_mo_shi.md)
+       * [设计模式](sheji_mo_shi_md.md)
            * [创建型](chuang_jian_xing.md)
            * [结构型](jie_gou_xing.md)
            * [行为型](xing_wei_xing.md)
