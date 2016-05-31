@@ -9,7 +9,6 @@ SPL是`Standard PHP Library`（PHP标准库）的缩写。
 
 ## SPL接口
 ```
-SPL接口
 Iterator
 ArrayAccess
 IteratorAggregate
