@@ -49,6 +49,7 @@
    * WebScoket
    * 前端UI框架
    * MVC
+   * 自动化工具
 * NodeJS
 * C
 * Python
