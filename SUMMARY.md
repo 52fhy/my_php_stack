@@ -31,7 +31,7 @@
    * NoSQL
        * MemCache
    * MongoDB
-* Linux
+* [Linux](linux.md)
    * 系统安装
    * 常见命令
 * H5
