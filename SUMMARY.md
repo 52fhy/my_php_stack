@@ -36,6 +36,7 @@
    * [常见命令](chang_jian_ming_ling.md)
    * vi编辑器使用和软件安装
    * 用户管理和服务管理
+   * 网络配置和文件服务器
 * H5
 * NodeJS
 * C
