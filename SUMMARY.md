@@ -30,4 +30,5 @@
 * NodeJS
 * C
 * Python
+* Go
 
