@@ -28,6 +28,7 @@
 * 数据库
    * MySQL
    * NoSQL
+       * MemCache
 * Linux
 * H5
 * NodeJS
