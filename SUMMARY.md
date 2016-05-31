@@ -25,4 +25,5 @@
 * 数据库
    * MySQL
    * NoSQL
+* Linux
 
