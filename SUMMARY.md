@@ -32,6 +32,7 @@
        * MemCache
    * MongoDB
 * Linux
+   * 系统安装
 * H5
 * NodeJS
 * C
