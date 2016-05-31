@@ -27,9 +27,9 @@
    * [代码规范](dai_ma_gui_fan.md)
 * 数据库
    * MySQL
-       * Redis
    * NoSQL
        * MemCache
+* Redis
 * MongoDB
 * [Linux](linux.md)
    * [系统安装](xi_tong_an_zhuang.md)
