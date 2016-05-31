@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [PHP](php.md)
+* [PHP](phpmd.md)
    * PHP开发环境
    * PHP基础
    * [深入理解面向对象](shenru_li_jie_mian_xiang_dui_xiang_md.md)
