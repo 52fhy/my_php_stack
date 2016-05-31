@@ -6,7 +6,7 @@
        * [核心思想](he_xin_si_xiang.md)
        * [基本特征](ji_ben_te_zheng.md)
        * [基本原则](ji_ben_yuan_ze.md)
-       * 设计模式
+       * [设计模式](she_ji_mo_shi.md)
    * PHP原理
    * SPL
    * 数据结构
