@@ -8,6 +8,25 @@ SPL是`Standard PHP Library`（PHP标准库）的缩写。
 
 
 ## SPL接口
+```
+SPL接口
+Iterator
+ArrayAccess
+IteratorAggregate
+RecursiveIterator
+SeekableIterator
+Countable
+DirectoryIterator
+ArrayObject
+ArrayIterator
+RecursiveArrayIterator
+RecursiveIteratorIterator
+FilterIterator
+SimpleXMLIterator
+CachingIterator
+LimitIterator
+SplFileObject
+```
 
 ## 参考
 http://www.ruanyifeng.com/blog/2008/07/php_spl_notes.html
