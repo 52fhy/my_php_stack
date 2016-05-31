@@ -43,6 +43,7 @@
 * [H5](h5.md)
    * HTML5
    * CSS
+   * JavaScript
 * NodeJS
 * C
 * Python
