@@ -29,4 +29,5 @@
 * H5
 * NodeJS
 * C
+* Python
 
