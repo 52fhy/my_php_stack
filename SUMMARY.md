@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [PHP](phpmd.md)
    * PHP开发环境
-   * PHP基础
+   * [PHP基础](phpji_chu.md)
    * [深入理解面向对象](shenru_li_jie_mian_xiang_dui_xiang_md.md)
        * [核心思想](he_xin_si_xiang.md)
        * [基本特征](ji_ben_te_zheng.md)
@@ -31,7 +31,6 @@
        * MemCache
        * Redis
        * MongoDB
-   
 * [Linux](linux.md)
    * [系统安装](xi_tong_an_zhuang.md)
    * [常见命令](chang_jian_ming_ling.md)
