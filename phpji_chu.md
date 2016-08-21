@@ -249,6 +249,68 @@ long2ip()   整形数字转ip
 
 ## 数组
 
+数组函数
+``` php 
+array_push() 末尾插入数组
+array_pop() 末尾弹出数组
+array_unshift() 头部插入数组
+array_shift() 头部弹出数组
+
+array_merge($arr1, $arr2)数组合并。数字索引，不会覆盖，值合并后，键名会连续方式重新索引；字符串键名，则该键名后面的值将覆盖前一个值
+array_merge_recursive($arr1, $arr2)递归地合并一个或多个数组。规则跟array_merge基本相同，只是在处理相同字符键名的时候，采用递归追加（生成子数组）
+
+array_slice($arr, $offset, $len = null) 从数组中取出一段 
+array_splice($arr,$offset, $len=0, $replacement) 把数组中由 offset 和 length指定的单元去掉，如果提供了 replacement 参数，则用其中的单元取代。影响原数组
+
+range($start, $end, $step = 1) 建立一个包含指定范围($start-$end)单元的数组
+array_combine($keys, $values)创建一个数组，用一个数组的值作为其键名，另一个数组的值作为其值
+array_fill($start_index ,$num ,$value ) 将一个数组从索引$start_index开始填充$num个$value
+array_pad($arr, $len, $value = '')用值将数组填补到指定长度。返回一个新数组
+
+array_diff($arr1, $arr2)    返回两个数组的差集数组
+array_intersect($arr1, $arr2)   返回两个或多个数组的交集数组
+
+array_search($needle , $haystack) 在数组$haystack查找$needle。找到返回键名
+in_array($needle , $haystack) 在数组$haystack查找$needle。找到返回 TRUE 
+
+array_key_exists()判断某个数组中是否存在指定的 key
+array_sum($arr) 返回数组中所有值的总和
+
+
+array_values($arr) 返回数组中所有值，组成一个数组
+array_keys($arr) 返回数组所有的键,组成一个数组
+
+shuffle($arr)   将数组打乱,保留键名
+array_flip($arr)    返回一个键值反转后的数组
+array_reverse($arr) 返回一个元素顺序相反的数组
+
+each()  返回数组中当前的键／值对并将数组指针向前移动一步 
+key() 返回数组内部指针当前指向元素的键名
+current() 返回数组中的当前元素（单元）
+next() 把指向当前元素的指针移动到下一个元素的位置，并返回当前元素的值
+prev()  把指向当前元素的指针移动到上一个元素的位置，并返回当前元素的值             
+end()   将数组内部指针指向最后一个元素，并返回该元素的值（如果成功）              
+reset()把数组的内部指针指向第一个元素，并返回这个元素的值
+list()用数组中的元素为一组变量赋值。仅能用于数字索引的数组并假定数字索引从 0 开始
+
+sort()  按升序对给定数组的值排序,不保留键名
+rsort() 对数组逆向排序,不保留键名
+usort() 使用用户自定义的比较函数对数组中的值进行排序 
+asort() 对数组排序,保持索引关系
+arsort()    对数组逆向排序,保持索引关系
+uasort()    使用用户自定义的比较函数对数组中的值进行排序并保持索引关联 
+ksort() 按键名对数组排序
+krsort()    将数组按照键逆向排序
+uksort()    使用用户自定义的比较函数对数组中的键名进行排序 
+natsort()   用自然顺序算法对数组中的元素排序
+natcasesort()   自然排序,不区分大小写
+
+array_walk($arr, function($value,$key){})   使用用户自定义函数对数组中的每个元素做回调处理 
+array_map(function($value){}, $arr1, $arr2) 将回调函数作用到给定数组的单元上 
+array_filter($arr, function($value){})  用回调函数过滤数组中的单元 
+array_multisort($arr1,$arr2,$arr3, $arg = SORT_ASC, $arg = SORT_REGULAR )    多个数组或多维数组进行排序。无参数时先按照第一个数组排序，再按照第二个数组排序，每个数组的值有一一对应关系。
+```
+
 ## 超级全局变量
 
 PHP中预定义了几个超级全局变量（superglobals） ，这意味着它们在一个脚本的全部作用域中都可用。 你不需要特别说明，就可以在函数及类中使用。
