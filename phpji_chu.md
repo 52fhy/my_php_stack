@@ -251,6 +251,21 @@ long2ip()   整形数字转ip
 
 ## 超级全局变量
 
+PHP中预定义了几个超级全局变量（superglobals） ，这意味着它们在一个脚本的全部作用域中都可用。 你不需要特别说明，就可以在函数及类中使用。
+
+PHP 超级全局变量列表:
+``` php
+$GLOBALS 包含了全部变量的全局组合数组
+$_SERVER 包含了诸如头信息(header)、路径(path)、以及脚本位置(script locations)等等信息的数组
+$_REQUEST 包含$_POST和$_GET
+$_POST POST参数数组
+$_GET GET参数数组
+$_FILES 文件数组
+$_ENV 环境变量数组
+$_COOKIE COOKIE数组
+$_SESSION SESSION数组
+```
+
 ## 函数
 
 ## 魔术变量
