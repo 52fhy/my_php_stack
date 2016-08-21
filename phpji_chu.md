@@ -268,6 +268,37 @@ $_SESSION SESSION数组
 
 ## 函数
 
+PHP 的真正威力源自于它的函数。
+在 PHP 中，提供了超过 1000 个内建的函数。
+
+创建PHP函数
+函数是通过调用函数来执行的。语法:
+``` php
+function functionName(){
+  //要执行的代码;
+}
+```
+
+PHP 函数准则：
+* 函数的名称应该提示出它的功能
+* 函数名称以字母或下划线开头（不能以数字开头）
+
+为了给函数添加更多的功能，我们可以添加参数。参数类似变量。
+``` php
+function functionName($param1, $param2,...){
+  //要执行的代码;
+}
+```
+
+如需让函数返回一个值，请使用 return 语句:
+``` php
+function add($x,$y)
+{
+  $total=$x+$y;
+  return $total;
+ }
+```
+
 ## 魔术变量
 
 ## 面向对象
